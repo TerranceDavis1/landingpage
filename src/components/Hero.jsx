@@ -58,6 +58,7 @@ const Hero = () => {
                 animate="visible"
                 className="mt-6 text-lg lg:text-xl lg:leading-relaxed"
               >
+  
                 Welcome to my portfolio! I'm a sophomore at Syracuse University, majoring in Computer Engineering with a minor in Business. I am passionate about full-stack development, with 2 years of experience working with front-end technologies such as HTML, CSS, and JavaScript. Additionally, I have knowledge in back-end technologies like SQL and Node.js. My goal is to leverage my skills to create innovative solutions in the tech industry. Feel free to explore my work and reach out for collaboration.
               </motion.p>
             </div>
