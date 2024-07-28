@@ -60,7 +60,7 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "React", "JSX"],
   },
   {
-    title: "Gaming Market Analyization",
+    title: "Gaming Market Analyzation",
     image: project4,
     description:"Developed interactive maps using Python and Folium to visualize gaming market penetration and demographic trends. Integrated multiple web APIs to gather data and enhance analysis capabilities, producing insights that support strategic decision-making.",
     technologies: ["Python", "Pandas", "Folium", "API"],
