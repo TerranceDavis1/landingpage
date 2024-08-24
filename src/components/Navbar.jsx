@@ -25,7 +25,7 @@ const Navbar = () => {
           <span>GitHub</span>
         </a>
         <a
-          href="./assets/Terrance CV.pdf"
+          href="./assets/ProfessionalCV.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 hover:text-red-500"
